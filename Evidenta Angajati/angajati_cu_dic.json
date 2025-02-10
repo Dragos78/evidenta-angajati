@@ -1,0 +1,182 @@
+{
+    "1": {
+        "first_name": "Big",
+        "last_name": "Boy",
+        "date_of_employment": "26.05.2000",
+        "salary": "6500",
+        "department": "Directorat",
+        "city": "Bucuresti",
+        "address": {
+            "county": "Bucuresti",
+            "district": 3,
+            "street": "Vasile Alecsandri",
+            "number": 45,
+            "block": 14,
+            "block_scale": 2,
+            "floor": 6,
+            "apartment": 52
+        }
+    },
+    "2": {
+        "first_name": "Dan",
+        "last_name": "Adomnicai",
+        "date_of_employment": "15.02.2001",
+        "salary": "3500",
+        "department": "Tehnic",
+        "city": "Bucuresti",
+        "address": {
+            "county": "Bucuresti",
+            "district": 1,
+            "street": "Ion Ion",
+            "number": 20,
+            "block": 2,
+            "block_scale": 1,
+            "floor": 1,
+            "apartment": 7
+        }
+    },
+    "3": {
+        "first_name": "Brad",
+        "last_name": "Nicu",
+        "date_of_employment": "13.08.2001",
+        "salary": 500,
+        "department": "Aprovizionate",
+        "city": "Bucuresti",
+        "address": {
+            "county": "Bucuresti",
+            "district": 1,
+            "street": "Washington",
+            "number": 22,
+            "block": 0,
+            "block_scale": 0,
+            "floor": 0,
+            "apartment": 1
+        }
+    },
+    "4": {
+        "first_name": "Papadopol",
+        "last_name": "Marin",
+        "date_of_employment": "13.03.2003",
+        "salary": 75000,
+        "department": "HR",
+        "city": "Ploiesti",
+        "address": {
+            "county": "Prahova",
+            "district": 0,
+            "street": "Gica Popescu",
+            "number": 10,
+            "block": 4,
+            "block_scale": 4,
+            "floor": 3,
+            "apartment": 60
+        }
+    },
+    "5": {
+        "first_name": "Arghian",
+        "last_name": "Cristina",
+        "date_of_employment": "26.04.2020",
+        "salary": "65000",
+        "department": "Facturare",
+        "city": "Brasov",
+        "address": {
+            "county": "Brasov",
+            "district": 9,
+            "street": "Valea Ursului",
+            "number": 31,
+            "block": 6,
+            "block_scale": 1,
+            "floor": 2,
+            "apartment": 11
+        }
+    },
+    "6": {
+        "first_name": "Baraban",
+        "last_name": "Marian",
+        "date_of_employment": "20.09.1999",
+        "salary": "4500",
+        "department": "HR",
+        "city": "Bucuresti",
+        "address": {
+            "county": "Bucuresti",
+            "district": 5,
+            "street": "Moinesti",
+            "number": 2,
+            "block": 7,
+            "block_scale": 1,
+            "floor": 5,
+            "apartment": 40
+        }
+    },
+    "7": {
+        "first_name": "Raul",
+        "last_name": "Mendez",
+        "date_of_employment": "15.12.2023",
+        "salary": "4900",
+        "department": "Tehnic",
+        "city": "Bucuresti",
+        "address": {
+            "county": "Bucuresti",
+            "district": 4,
+            "street": "Aleea Ciceu",
+            "number": 8,
+            "block": 1,
+            "block_scale": 1,
+            "floor": 1,
+            "apartment": 8
+        }
+    },
+    "9": {
+        "first_name": "Nastase",
+        "last_name": "Gabriel",
+        "date_of_employment": "21.10.2006",
+        "salary": "2023",
+        "department": "Tehnic",
+        "city": "Bucuresti",
+        "address": {
+            "county": "Bucuresti",
+            "district": 3,
+            "street": "Dristorului",
+            "number": 124,
+            "block": 8,
+            "block_scale": 4,
+            "floor": 6,
+            "apartment": 128
+        }
+    },
+    "10": {
+        "first_name": "Gagiu",
+        "last_name": "Pandele",
+        "date_of_employment": "15.09.2024",
+        "salary": "2450",
+        "department": "Proiectare",
+        "city": "Giurgiu",
+        "address": {
+            "county": "Giurgiu",
+            "district": 0,
+            "street": "Episcopiei",
+            "number": 0,
+            "block": 32,
+            "block_scale": 1,
+            "floor": 3,
+            "apartment": 52
+        }
+    },
+    "11": {
+        "first_name": "Banea",
+        "last_name": "Andrei",
+        "date_of_employment": "28.10.2021",
+        "salary": "5961",
+        "department": "Proiectare",
+        "city": "Bucuresti",
+        "address": {
+            "county": "Bucuresti",
+            "district": 2,
+            "street": "Rauseni",
+            "number": 145,
+            "block": 5,
+            "block_scale": 3,
+            "floor": 3,
+            "apartment": 62
+        }
+    }
+}
